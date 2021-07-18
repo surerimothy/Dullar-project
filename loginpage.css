@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgba(82, 196, 97, 0.281) ;
+}
+h1{
+    color:  limegreen;
+    font-size: 31px;
+    text-align: center;
+}
+h3 a{
+    background-color: limegreen;
+    padding: 10px;
+    color: whitesmoke;
+    border-radius: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    text-align: center;
+}
+.content{
+    background-color: whitesmoke;
+    width: 450px;
+    border-radius: 20px;
+    padding: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 18px;
+}
+input{
+    height: 35px;
+    width:100%;
+    border-color: lime;
+    border-radius: 7px;
+}
+a{
+    color: limegreen;
+    text-decoration: none;
+    height: 25px;
+    padding: 1px;
+}

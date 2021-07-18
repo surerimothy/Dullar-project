@@ -1,0 +1,47 @@
+h1{
+    color:#0af30a;
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+a{
+    background-color: limegreen;
+    color: white;
+    text-decoration: none;
+    padding: 3px;
+    margin: 3px;
+    border-radius: 10px;
+}
+.content{
+    font-size: 20px;
+    font-family: cursive;
+    line-height: 30px;
+}
+.content img{
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background: grey;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+}
+footer a{
+    background-color: grey;
+    display: inline-block;
+    color: black;
+    justify-content: space-between;
+    padding: 10px;
+}
+.headerwrap{
+    background-color: chocolate;
+    padding: 10px;
+}
